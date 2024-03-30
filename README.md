@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+    <a href="https://github.com/DanielPuggio">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielPuggio&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuggio&layout=compact&langs_conut=16&theme=dark"/>
+</div>
+
+##
+
+<div> 
+  <a href="https://www.facebook.com/DanielPuggio" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
