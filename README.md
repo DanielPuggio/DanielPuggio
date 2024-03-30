@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <a href="https://github.com/DanielPuggio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielPuggio&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuggio&layout=compact&langs_conut=16&theme=dark"/>
+    <a href="https://github.com/DanielPuggio"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielPuggio&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPuggio&layout=compact&langs_conut=16&theme=dark"/>
 </div>
 
 ##
